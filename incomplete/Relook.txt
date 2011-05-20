@@ -1,0 +1,1 @@
+Problem 92 is brute force! takes ages. Many optimizations are possible.  
