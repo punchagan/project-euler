@@ -1,0 +1,5 @@
+My solutions to problems of Project Euler. 
+
+The problems were solved to learn some Python. So, most of the Python
+code is bound to be bad. Also, not much attention was paid to use the
+"best" algorithms. 
